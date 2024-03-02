@@ -1,0 +1,1 @@
+<h1 style="align-items: center;">All the project I've made as part of the The Odin Project Curriculum can be found here.</h1>
